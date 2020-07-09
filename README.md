@@ -730,8 +730,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] sift_down - needed for extract_max
         - [ ] remove(i) - removes item at index x
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
+<<<<<<< HEAD
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
+=======
+        - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
+>>>>>>> c3e4a1d... Marked X
 
 ## Sorting
 
@@ -1326,6 +1330,10 @@ Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
+<<<<<<< HEAD
+=======
+- [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously. 
+>>>>>>> c3e4a1d... Marked X
 
 
 ## Once you're closer to the interview
